@@ -1,2 +1,2 @@
-# 30days_crashcourse_with-
+# 30days_crashcourse_with-🐍
 practice makes trainable
