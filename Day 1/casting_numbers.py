@@ -25,7 +25,12 @@ num_float = float(num_string)
 print('num_int:', num_int)
 print('num_float:', num_float)
 
+# str to list
+full_name = 'plongplong_coder'
+name_list = list(full_name)
+print('name_list:', name_list)
 
-
-
-
+# string to boolean
+num_string = 'plongplong_coder'
+num_bool = bool(num_string)
+print('num_bool:', num_bool)
