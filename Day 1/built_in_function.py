@@ -1,5 +1,13 @@
-
-
+"""" 
+hard_coded
+"""
+print('plongplong_coder')
+answer = input("data_type_answer: ")
+if answer == "string":
+    print("Correct! The data type is string.")
+    if answer != "string":
+        print("Incorrect. Please try again.")
+print(input("data_type_answer: "))
 
 
 """
